@@ -1,5 +1,5 @@
 {
-  "name": "grunt-bump",
+  "name": "@wiwo/grunt-bump",
   "description": "Bump package version",
   "version": "0.0.13",
   "homepage": "https://github.com/vojtajina/grunt-bump",
@@ -43,7 +43,7 @@
     "semver": "~1.1"
   },
   "peerDependencies": {
-    "grunt": "~0.4"
+    "grunt": ">=1.0.0"
   },
   "devDependencies": {
     "grunt": "~0.4",
